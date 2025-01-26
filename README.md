@@ -1,2 +1,16 @@
-# Computer-Vision
-NYU CSCI-UA 480 Computer Vision
+# Computer Vision
+
+## Introduction
+
+**Author：Ruian7P**
+
+Computer Vision notes
+
+Only for Personal Records and Reviews: Sophomore 2024 Fall (third semester)
+
+----
+
+## Menu
+
+Computer Vision NYU CS, Lecturer: Davi Geiger
+
